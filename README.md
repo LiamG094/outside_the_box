@@ -1,2 +1,2 @@
-# outside_the_box
-Text based game designed in python to apply my ongoing learning 
+<h1> 🎮Outside the Box🎮</h1>
+<h3>Inspired by Zork, Outside The Box is a text based adventure game </h3>
