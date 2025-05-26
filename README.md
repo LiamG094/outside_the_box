@@ -6,6 +6,7 @@
 
   <h3>1. Start Screen</h3>
     <h4>Main screen where you generate a username and start the game from</h4>
+    <h4>Instructions for how to play the game</h4>
     <h4>(optional) access to the scoreboard to see how well you and others have done</h4>
 
   <h3>2. Main game</h3>
